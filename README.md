@@ -48,6 +48,10 @@ Morocco  wins:1 , loses:2 , draws:0 , goal difference:-2 , points:3
 
 
 
+
+
+
+
 I have created Group B of football World Cup 2018 with 2 kinds of different approches:
 
 # First just with python code
