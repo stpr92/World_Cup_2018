@@ -11,10 +11,15 @@ Note: A team earns zero points for a loss, one point for a draw, and three point
 The match results should be read in the following order: (In the sample input, the number on the left corresponds to the team on the left.)
 
 Iran – Spain
+
 Iran – Portugal
+
 Iran – Morocco
+
 Spain – Portugal
+
 Spain – Morocco
+
 Portugal – Morocco
 
 # sample input
